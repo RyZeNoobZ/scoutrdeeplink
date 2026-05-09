@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.elaisha.scoutr",
+      "sha256_cert_fingerprints": [
+        "d6f531eb86031028a4f833035a943d921b2ca337f23c73208c5cb58d2c931fed"
+      ]
+    }
+  }
+]
