@@ -1,1 +1,12 @@
 
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "L3KFLFK6Q3.com.elaisha.scoutr",
+        "paths": ["/p/*", "/e/*", "/post/*"]
+      }
+    ]
+  }
+}
